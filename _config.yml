@@ -98,6 +98,8 @@ person_category:
     title: 'Ph.D. Student'
   ra:
     title: 'Research Assistant/Associate'
+  staff:
+    title: 'Staff'
 
 tool_category:
   published:
