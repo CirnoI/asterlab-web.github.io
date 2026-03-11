@@ -98,6 +98,8 @@ person_category:
     title: 'Ph.D. Student'
   ra:
     title: 'Research Assistant/Associate'
+  intern:
+    title: 'Undergraduate Student/Intern'
   staff:
     title: 'Staff'
 
